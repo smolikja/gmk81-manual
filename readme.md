@@ -171,7 +171,7 @@ Note: Make sure your keyboard is properly plugged into your computer.
 
 1. Please visit [releases](https://github.com/WestBerryVIA/via-releases/releases) to download the latest VIA application for your computer's OS here. (or use [web page](https://usevia.app/) applicationa and skip all next teps)
 
-2. Download `ZUOYA GMK81-2.4G.JSON` and `ZUOYA GMK81-USB.JSON` file via distributor and load the file. (`2.4G` if on 2.4g mode or `USB` if on wired)
+2. Download `ZUOYA GMK81-2.4G.JSON` and `ZUOYA GMK81-USB.JSON` file via distributor (or from this repository) and load the file. (`2.4G` if on 2.4g mode or `USB` if on wired)
 
 3. Installation is completed and VIA software connected successfully
 
