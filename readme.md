@@ -20,6 +20,7 @@ English manual for the ZUOYA GMK81 Mechanical Keyboard. Made from the printed ve
     - [Special keys setting](#special-keys-setting)
     - [About Layers](#about-layers)
     - [Key description](#key-description)
+  - [Firmware update](#firmware-update)
 
 ## Description
 
@@ -158,7 +159,7 @@ Battery Charging Indicator:
 ZUOYA GMK81 supports to custom animation and static picture.
 Total 2 sets can be customized.
 
-Please download Image Custom Tool from distributor and install it to your PC .
+Please download Image Custom Tool from distributor ([or releases](https://github.com/smolikja/gmk81-manual/releases)) and install it to your PC .
 
 Open the Image Custom Tool choose picture and upload all frames.
 
@@ -231,3 +232,7 @@ ZUOYA GMK81 default customized 0-3 layer keyboard layout.
 - `Fn1(1)`: Layer 1 will be activated when holding this key
 - `MO(2)`: Layer 2 will be activated when holding this key
 - `MO(3)`: Layer 3 will be activated when holding this key
+
+## Firmware update
+
+Firmware can be updated via tool from ([releases](https://github.com/smolikja/gmk81-manual/releases))
