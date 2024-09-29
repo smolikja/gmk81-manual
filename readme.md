@@ -24,20 +24,24 @@ English manual for the ZUOYA GMK81 Mechanical Keyboard. Made from the printed ve
 ## Description
 
 - Key Features
-  - A TV (display)
-  - Adjustable non-slip rubber feet
-  - All-keys anti ghosting
-  - Compatible with Windows & MAC OS
-  - Custom driver available
-  - Factory case foam
-  - Full RGB backlit with audio-sync function
-  - Hot-swappable PCB (5-pins slot)
-  - Plug & play mechanical keyboard
-  - Poron gasket structure
-  - Poron plate foam
-  - Prelubed stabilizers
-  - South facing RGB LED
-  - Trimode connection (USB Type-C / Bluetooth/ 2.4Ghz Wireless)
+  - Customizable LCD Screen for Windows only
+  - PCB
+  - Poron Gasket Structure
+  - Tri-Mode (Bluetooth, 2.4Ghz, Type-C Wired)
+  - Hot-swappable 5-pin
+  - South-Facing RGB LED
+  - Detachable Type-C cable
+  - Pre-lubed Stabilizers
+  - 2 Adjustable Angles with Non-Slip Rubber Feet
+  - Poron Plate Foam
+  - Standard Case Foam
+  - IXPE Switch Pad
+  - Silicon Dampener
+  - Full RGB
+  - 3000mAh Battery Capacity
+  - Compatible with MAC and Windows Systems
+  - VIA Compatible
+  - Easy to use, plug & play
 
 - Commons Connectivity (Trimode)
   - USB Type-C
@@ -50,22 +54,20 @@ English manual for the ZUOYA GMK81 Mechanical Keyboard. Made from the printed ve
 
 - RGB Backlit
   - South facing LED
-  - 20 preset RGB mode
-  - Audio visualizer mode
   - RGB Customization ready (driver available)
 
 - Battery
   - 3000Mah (15-20 hours / charging cycle)
 
 - Number of Keys
-  - 66 keys
+  - 81 keys
 
 - Compatibility
   - Windows
   - MAC
 
 - Keyboard Bundle
-  - 1 x Zuoya GMK67 Trimode Mechanical Keyboard
+  - 1 x Zuoya GMK81 Keyboard Kit
   - 1 x Type-C Cable
   - 1 x 2.4Ghz Wireless Dongle
   - 1 x Keyswitch Puller
